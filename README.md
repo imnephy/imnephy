@@ -1,5 +1,5 @@
 ### Hi there 👋
-### If you want to check my ✨code✨, you can refer to my pinned projects below
+### If you want to check my ✨code✨, you can refer to pinned projects below
 
 <!--
 **imnephy/imnephy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
