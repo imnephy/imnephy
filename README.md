@@ -1,6 +1,6 @@
 ### Hi there 👋
-If you want to check my code example, you can refer to my pinned projects
-###
+### If you want to check my ✨code skills✨, you can refer to my pinned projects below
+
 <!--
 **imnephy/imnephy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
